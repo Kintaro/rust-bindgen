@@ -23,7 +23,7 @@ dependencies = [
 
 [[package]]
 name = "libc"
-version = "0.1.10"
+version = "0.1.9"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 
 [[package]]
